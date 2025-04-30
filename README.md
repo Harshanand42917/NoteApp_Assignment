@@ -1,17 +1,17 @@
-# 📝 Custom Note Service – (Frontend Mini Project)
+# Custom Note Service – (Frontend Mini Project)
 
 A simple React app to add and view personal notes using `localStorage`. Designed to demonstrate clean architecture, client-side persistence, and thoughtful state/UI management — all without a backend.
 
 ---
 
-## 🚀 Live Site
+## Live Site
 
 👉 [Live Demo](https://notemakerapp.vercel.app/)  
 👉 [GitHub Repository](https://github.com/Harshanand42917/notemaker_app)
 
 ---
 
-## 📖 Features
+## Features
 
 - Add new notes with a title and content  
 - View saved notes with title and content snippet  
@@ -53,15 +53,13 @@ npm run dev
 
 ### Step 5 – Open in Browser
 
-Go to:
-
 ```
 http://localhost:5173
 ```
 
 ---
 
-## Why? Design & Architecture Decisions
+## Design & Architecture Decisions
 
 ### Storage Strategy
 
